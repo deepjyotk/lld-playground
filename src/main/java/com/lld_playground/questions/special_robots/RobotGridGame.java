@@ -1,6 +1,7 @@
 package com.lld_playground.questions.special_robots;
 
 import java.util.Optional;
+import java.util.Scanner;
 import java.util.Set;
 
 public final class RobotGridGame {
